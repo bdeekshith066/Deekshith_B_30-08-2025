@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+reports/
+*.sqlite
+.idea/
+.vscode/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+assets/*.csv
+reports/*
+*.sqlite
+*.log
+"assets/store_status.csv" 
+"assets/store_status.csv"
