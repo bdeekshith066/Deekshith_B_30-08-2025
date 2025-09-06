@@ -1,5 +1,5 @@
 
-# Loop Store Monitor — Take-Home Project
+# Loop Store Monitor
 
 ## 📌 Project Overview
 This project implements a backend system to **monitor store uptime/downtime** based on periodic pings.  
