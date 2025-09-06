@@ -5,7 +5,7 @@
 This project implements a backend system to **monitor store uptime/downtime** based on periodic pings.  
 Restaurant owners can generate reports showing how often their stores were online or offline **during business hours** in the last **hour, day, and week**.
 
-It is built with **FastAPI**, **SQLAlchemy (async)**, and supports both **SQLite (default)** and **Postgres**.
+It is built with **FastAPI**, **SQLAlchemy (async)**, and supports both **SQLite**.
 
 ---
 
